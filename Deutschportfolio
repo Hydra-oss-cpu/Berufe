@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beruf Portfolio</title>
+</head>
+<body>
+    <h1>Inhaltsangabe</h1>
+<ol>
+        <li>
+            Berufe und Berufsbilder
+        </li>
+       <ul>
+        <li>
+            Berufsfelder und Berufe<br>
+        </li>
+       <li>
+        Addressen,Literatur und Links
+       </li>
+    </ul>
+     
+    <li>
+Selbsteinschätzung
+    </li>
+ 
+<ul>
+    <li>
+Eigene Fähigkeiten und Interessen
+    </li>
+<li>
+Mögliche Berufe für mich
+</li>
+</ul>
+ 
+    <li>
+        Mein Traumberuf:Programierer
+    </li>
+   
+<ul>
+    <li>
+        Material zum Beruf
+    </li>
+    <li>
+        Selbstreflexion
+    </li>
+</ul>
+ 
+    <li>
+        Bewerbung um einen Praktikumsplatz
+    </li>
+   <ul>
+       <li>
+        Bewerbungsschreiben
+       </li>
+       <li>
+        Lebenslauf
+       </li>
+       <li>
+        Vorbereitung auf das Vorstellungsgespräch
+       </li>
+   </ul>
+ 
+   
+</ol>
+ 
+</body>
+</html>
