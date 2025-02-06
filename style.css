@@ -25,12 +25,17 @@ img {
     display: block;
   }
 
-left-button{
-    float: left;
-    background-color: antiquewhite;
+  footer {
+    display:flex;
+    justify-content:space-between;
+  }
+
+#left-button button a{
+    background-color: aqua;
+    font-size: large;
 }
 
-right-button{
-    float: right;
-    background-color: antiquewhite;
+#right-button a{
+    background-color: aqua;
+    font-size: large;
 }
