@@ -24,14 +24,13 @@ img {
     margin:auto;
     display: block;
   }
-  button.left{
-    font-size: 40px;
-    background-color: black;
-    color: aquamarine;
-  }
-  button.right{
-    font-size: 40px;
-    background-color: black;
-    color: aquamarine;
-    align-items: end;
-  }
+
+left-button{
+    float: left;
+    background-color: antiquewhite;
+}
+
+right-button{
+    float: right;
+    background-color: antiquewhite;
+}
