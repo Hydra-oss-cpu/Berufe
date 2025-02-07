@@ -31,11 +31,11 @@ img {
   }
 
 #left-button button a{
-    background-color: aqua;
+    background-color: gray;
     font-size: large;
 }
 
-#right-button a{
-    background-color: aqua;
+#right-button button a{
+    background-color: gray;
     font-size: large;
 }
